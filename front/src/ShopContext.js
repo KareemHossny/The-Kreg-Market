@@ -28,7 +28,7 @@ const ShopProvider = (props) => {
 
   const navigate = useNavigate();
 
-  const API_URL = "https://krego-market-back.vercel.app/api";
+  const API_URL = "https://the-kreg-market-back.vercel.app/api";
 
   /* -------------------- LocalStorage Cart -------------------- */
 
